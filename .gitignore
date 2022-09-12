@@ -16,4 +16,4 @@
 .prettierignore
 
 ##Include design folder
-.design
+./design
