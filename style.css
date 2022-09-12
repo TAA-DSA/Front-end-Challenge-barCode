@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  max-width: 283px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 0.625rem;
+  margin-bottom: 2rem;
+}
+
+.qrImage {
+  max-width: 283px;
+  border-radius: 0.625rem;
+}
+
+.attribution {
+  font-size: 15px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+h3 {
+  text-align: center;
+  margin: 2rem 2rem;
+}
+
+p {
+  text-align: center;
+}
