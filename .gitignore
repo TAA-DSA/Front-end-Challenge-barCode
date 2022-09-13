@@ -15,8 +15,8 @@
 .DS_Store
 .prettierignore
 
-##Include design folder
-design
+
+
 
 ##Add the readme-template.md
 README-template.md
