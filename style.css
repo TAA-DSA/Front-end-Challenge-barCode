@@ -16,7 +16,7 @@ body {
 .card {
   max-width: 283px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 0.625rem;
   margin-bottom: 2rem;
@@ -33,6 +33,7 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+  text-decoration: none;
 }
 
 h3 {
