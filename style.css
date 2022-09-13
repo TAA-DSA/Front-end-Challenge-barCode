@@ -17,7 +17,7 @@ body {
   max-width: 283px;
   margin: 0 auto;
   padding: 2rem;
-  background-color: #fff;
+  background-color: hsl(0, 0%, 100%);
   border-radius: 0.625rem;
   margin-bottom: 2rem;
 }
@@ -42,4 +42,5 @@ h3 {
 
 p {
   text-align: center;
+  color: #a2b5bb;
 }
